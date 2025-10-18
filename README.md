@@ -12,7 +12,7 @@ This repository contains all of my projects I have completed during my MSBA prog
 - **Stack:** Python, Pandas, Matplotlib/Seaborn
 - **Key finding:** Weak/inconsistent correlation; spatial hotspots dominate
 - **Notebook:** [Open in Colab]([https://colab.research](https://drive.google.com/file/d/1U7hARqNjvMyzEwd7n7ZGeoK9mHNlGZQc/view?usp=sharing)
-- **Slides:** [[/slides/la-crime-employment.pdf](./slides/la-crime-employment.pdf)](https://docs.google.com/presentation/d/1xasSNnrMwZormB-dJKUxsLB76GSGQEomLBr8xxOp8Fg/edit?usp=sharing)
+- **Slides:** [(./slides/la-crime-employment.pdf)](https://docs.google.com/presentation/d/1xasSNnrMwZormB-dJKUxsLB76GSGQEomLBr8xxOp8Fg/edit?usp=sharing)
 
 ## How to Run Locally
 ```bash

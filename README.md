@@ -17,13 +17,13 @@ This repository contains all of my projects I have completed during my MSBA prog
 - **Goal:** Explore how Green Taxis can maximize their revenue & competitiveness
 - **Stack:** SQL, Tableau, BigQuery
 - **Key finding:** Green Taxis Ridership is declining due to COVID impact and increase rideshare platforms
-- **Slides:** file:///Users/allisonkramer/Downloads/New%20York%20Green%20Taxi%20SQL%20Presentation%20-%20Team%207.pdf
+- **Slides:** https://docs.google.com/presentation/d/1KS6YpFSch8oNY6BFXtMaFely0tK2B3DweXmhcqNjmVE/edit?usp=sharing
 
 ### 3) Predicting Hospital Length of Stay in New York
 - **Goal:** Prediciting Hospital LOS and provide recommendations for staffing, supply, and operations
 - **Stack:** Python, Colab, scikit-learn
 - **Key finding:** Our findings reveal that patient age, admission type, and severity indicators are the strongest drivers of length of stay, and our stacked model captures these patterns most effectively.
-- **Slides:** file:///Users/allisonkramer/Downloads/810%20Machine%20Learning%20Predicting%20Hospital%20Length%20of%20Stay%20-%20Team%202%20(2).pdf
+- **Slides:** https://docs.google.com/presentation/d/1I9KEblP3TdJyZHDoBXCDBci4VwrHurZ9whGpQjZbK2I/edit?usp=sharing
 
 ## How to Run Locally
 ```bash
